@@ -1,0 +1,17 @@
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\bin\Debug\login_1.exe.config
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\bin\Debug\login_1.exe
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\bin\Debug\login_1.pdb
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\obj\Debug\login_1.csprojResolveAssemblyReference.cache
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\obj\Debug\login_1.Properties.Resources.resources
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\obj\Debug\login_1.csproj.GenerateResource.Cache
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\obj\Debug\login_1.exe
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\obj\Debug\login_1.pdb
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\obj\Debug\login_1.login_2.resources
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\obj\Debug\login_1.log_1.resources
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\obj\Debug\login_1.MainForm.resources
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\obj\Debug\login_1.AddminReg.resources
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\obj\Debug\login_1.EmpReg.resources
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\obj\Debug\login_1.Salary_Dt_Reg.resources
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\obj\Debug\login_1.SlrySetting.resources
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\obj\Debug\login_1.SalaryCal.resources
+C:\Users\Pasan\OneDrive - esoft.lk\HND - ESOFT\Unit 1 - Programming\Assignment\C#_Project\Grifindo_toys\login_1\obj\Debug\login_1.SalReportcs.resources
